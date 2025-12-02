@@ -3,7 +3,7 @@
 set -e
 
 REPO="lucasepe/txtree"
-BINARY="jt"
+BINARY="txtree"
 
 usage() {
   echo "Usage: $0 [version]"
