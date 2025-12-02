@@ -1,0 +1,2 @@
+/users/123?active=true&role=admin
+/orders/2025-01-01?status=shipped

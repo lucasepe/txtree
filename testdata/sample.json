@@ -1,0 +1,23 @@
+{
+  "orderId": "O1001",
+  "customer": {
+    "name": "Bob Johnson",
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "90210"
+    }
+  },
+  "items": [
+    {
+      "productId": "P001",
+      "quantity": 2
+    },
+    {
+      "productId": "P003",
+      "quantity": 1
+    }
+  ],
+  "orderDate": "2025-05-10"
+}

@@ -1,0 +1,17 @@
+
+_|_ ><       by LS71
+ |_ tree     https://github.com/lucasepe 
+        
+Visualize your data, branch by branch.
+
+USAGE:
+
+  txtree [flags] [file]
+
+EXAMPLES:
+
+  Pipe a JSON from stdin:
+    cat api-response.json | txtree
+
+  Read a JSON from a file:
+    txtree api-response.json
