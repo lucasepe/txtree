@@ -1,10 +1,91 @@
-Linux
-  Android
-  Debian
-    Ubuntu
-      Lubuntu
-      Kubuntu
-      Xubuntu
-    Mint
-  Centos
-  Fedora
+
+Timeline degli Imperatori Romani (Occidente)
+
+  Dinastia Giulio-Claudia (27 a.C. – 68 d.C.)
+    Augusto (27 a.C. – 14 d.C.)
+    Tiberio (14 – 37)
+    Caligola (37 – 41)
+    Claudio (41 – 54)
+    Nerone (54 – 68)
+
+  Anno dei quattro imperatori (68 – 69)
+    Galba (68 – 69)
+    Otone (69)
+    Vitellio (69)
+    Vespasiano (69 – 79) — inizio Flavi
+
+  Dinastia Flavia (69 – 96)
+    Vespasiano (69 – 79)
+    Tito (79 – 81) 
+    Domiziano (81 – 96)
+
+  Dinastia Nervana-Antonina (96 – 192)
+    Nerva (96 – 98)
+    Traiano (98 – 117)
+    Adriano (117 – 138)
+    Antonino Pio (138 – 161)
+    Marco Aurelio (161 – 180)
+    Lucio Vero (161 – 169, co-imperatore)
+    Commodo (180 – 192)
+
+  Periodo dei Severi (193 – 235)**
+    Settimio Severo (193 – 211)
+    Caracalla (198 – 217)
+    Geta (209 – 211, co-imperatore)
+    Macrino (217 – 218)
+    Eliogabalo (218 – 222)
+    Alessandro Severo (222 – 235)
+
+  Crisi del III secolo (235 – 284) (lista abbreviata, periodo molto frammentato)
+    Massimino il Trace (235 – 238)
+    Gordiano I & II (238)
+    Massimo e Balbino (238)
+    Gordiano III (238 – 244)
+    Filippo l'Arabo (244 – 249)
+    Decio (249 – 251)
+    Treboniano Gallo (251 – 253)
+    Emiliano (253)
+    Valeriano (253 – 260)
+    Gallieno (253 – 268)
+    Claudio II il Gotico (268 – 270)
+    Aureliano (270 – 275)
+    Tacito (275 – 276)
+    Probo (276 – 282)
+    Caro (282 – 283)
+    Carino & Numeriano (283 – 285)
+
+  Tetrarchia e successori (284 – 324)
+    Diocleziano (284 – 305)
+    Massimiano (286 – 305)
+    Costanzo Cloro (305 – 306)
+    Galerio (305 – 311)
+    Costantino I (306 – 337)
+    Massenzio (306 – 312)
+    Licinio (308 – 324)
+
+  Dinastia Costantiniana (324 – 363)
+    Costantino I (306 – 337)
+    Costanzo II (337 – 361)
+    Costante (337 – 350)
+    Giuliano l’Apostata (361 – 363)
+
+  Valentiniani e Teodosiani (364 – 395)
+    Valentiniano I (364 – 375)
+    Valente (364 – 378)
+    Graziano (367 – 383)
+    Valentiniano II (375 – 392)
+    Teodosio I (379 – 395)
+
+  Impero Romano d’Occidente (395 – 476)
+    Onorio (395 – 423)
+    Giovanni (423 – 425)
+    Valentiniano III (425 – 455)
+    Petronio Massimo (455)
+    Avito (455 – 456)
+    Maggioriano (457 – 461)
+    Libio Severo (461 – 465)
+    Antemio (467 – 472)
+    Olibrio (472)
+    Glicerio (473 – 474)
+    Giulio Nepote (474 – 475)
+    Romolo Augusto (475 – 476) ultimo imperatore d’Occidente
