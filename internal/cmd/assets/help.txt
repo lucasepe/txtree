@@ -1,7 +1,7 @@
 
-_|_ ><       by LS71
- |_ tree     https://github.com/lucasepe 
-        
+  ╺┳╸┏━┓┏━╸┏━╸  by LS71
+tx ┃ ┣┳┛┣╸ ┣╸   https://github.com/lucasepe 
+   ╹ ╹┗╸┗━╸┗━╸        
 Visualize your data, branch by branch.
 
 USAGE:
